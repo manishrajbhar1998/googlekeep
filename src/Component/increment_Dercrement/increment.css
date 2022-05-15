@@ -1,0 +1,24 @@
+
+
+.title{
+    padding: 15px;
+}
+.output{
+    padding: 20px;
+    background-color: lightgray;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.btn{
+    margin: 20px;
+    padding: 20px;
+}
+.btn-green:hover{
+    margin: 10px;
+    color: green;
+}
+.btn-red:hover{
+    margin: 10px;
+    color: red;
+}

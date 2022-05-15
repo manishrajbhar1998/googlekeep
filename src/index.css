@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Koulen', cursive;
 }
+/* .container{
+    width: 30%;
+    margin: 100px auto;
+     text-align: center; 
+    background-color: lightgrey;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+} */
+button{
+    /* padding: 10px 20px; */
+    /* font-size: 1.2rem; */
 }
+/* input{
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    margin: 10px 0;
+} */

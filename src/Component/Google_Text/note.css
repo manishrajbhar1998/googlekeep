@@ -1,0 +1,21 @@
+.note{
+    padding: 10px;
+    box-shadow: 0 2px 5px 2px lightgray;
+    /* width: 25%; */
+    position: relative;
+}
+.del_btn{
+    position: absolute;
+    bottom: -10%;
+    left: 95%;
+    border: none;
+    padding:  5px;
+    border-radius: 50%;
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 5px 2px lightgray;
+}
